@@ -1,8 +1,8 @@
-<h1 style="text-align: center">worldtrip</h1>
+<h1 align="center">worldtrip</h1>
 
 <img src=".github\worldtrip-layout.jpg" alt="layout worldtrip" />
 
-#Sobre o projeto
+# Sobre o projeto
 É aplicação que tem dois objetivos principais. O primeiro é desenvolver toda a interface usando como base o Chakra UI. O outro é que você deve trabalhar o responsivo da aplicação usando mesmo o Chakra UI.
 
 Foi Criado usando o framework Next.js do zero, possui apenas 2 páginas (Home e Continente) e foi implementado a interface conforme o layout do Figma.
@@ -18,7 +18,7 @@ Site criado baseado no layout do Figma. [Clique aqui](https://www.figma.com/file
 - Json Server
 - SCSS
 
-#Executando o projeto
+# Executando o projeto
 
 1 - Execute o seguinte comando para iniciar a aplicação:
 
