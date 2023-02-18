@@ -1,38 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 style="text-align: center">worldtrip</h1>
 
-## Getting Started
+<img src=".github\worldtrip-layout.jpg" alt="layout worldtrip" />
 
-First, run the development server:
+#Sobre o projeto
+É aplicação que tem dois objetivos principais. O primeiro é desenvolver toda a interface usando como base o Chakra UI. O outro é que você deve trabalhar o responsivo da aplicação usando mesmo o Chakra UI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Foi Criado usando o framework Next.js do zero, possui apenas 2 páginas (Home e Continente) e foi implementado a interface conforme o layout do Figma.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Layout
+Site criado baseado no layout do Figma. [Clique aqui](https://www.figma.com/file/qndxKceYmo7Hqs47m5LaiW/Desafio-1-Módulo-4-ReactJS-(Copy)?node-id=0%3A1&t=VASPTafjtHWayL62-0) para ver o layout (mobile e desktop). 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#Tecnologias usadas
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- Next.js
+- Chakra-ui
+- Swiper
+- Json Server
+- SCSS
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#Executando o projeto
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1 - Execute o seguinte comando para iniciar a aplicação:
 
-## Learn More
+`npm run dev`
 
-To learn more about Next.js, take a look at the following resources:
+2 - Agora execute o json-server para iniciar um fake REST API server com a API que tem alguns dados dos países de exemplo (você encontra em src/server/db.json). Execute esse comando:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+`npm run server`

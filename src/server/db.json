@@ -1,0 +1,130 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "title": "Europa",
+      "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "countries": 50,
+      "languages": 60,
+      "cities": 27,
+      "image": "/images/europa-slide.jpg",
+      "citiesList": "Istambul, MoscovoPE/, MoscouPB, Londres, São, Petersburgo, Berlim, Madrid, Kiev, Roma, Paris, Bucareste, Baku, Minsk, Hamburgo, Budapeste, Viena, Varsóvia, Belgrado, Barcelona, Kharkiv, Ecaterimburgo, Munique, Estocolmo, Milão, Sófia, Praga, Nizhny, Novgorod, CopenhaguePB/CopenhagaPE, Samara, Bruxelas, Kazan, Chelyabinsk, Ierevan, Dublin, Tbilisi, Rostov, Birmingham, Ufa, Dnipro, Volgogrado, ColôniaPB/ColóniaPE, Odessa, Donetsk, Voronezh, Perm, Nápoles, Turim, Marselha, Saratov, Ganja, Zaporizhia, AmsterdãPB/AmesterdãoPE, Valência, Zagreb, Salônica, Cracóvia, Leeds, Atenas, Krasnodar, Lviv, Lodz, Togliatti, Riga, Sevilha, Frankfurt, Saragoça, Kryvyi, Rih, Skopje, Chișinău, Palermo, Oslo, Wroclaw, Izhevsk, Tirana, Rotterdam, Ulyanovsk, StuttgartPB/EstugardaPE, Helsinque, Düsseldorf, Glasgow, Yaroslavl, Gênova, Dortmund, Essen, Makhachkala, Málaga, Leipzig, Sheffield, Poznań, Gotemburgo, Oremburgo, Bremen, Lisboa, Vilnius, Dresden, Hanover, Ryazan, Bradford, Astracã, Penza, Mykolaiv, Duisburg, Naberezhnye, Chelny, Lipetsk, Manchester, Tula, Lyon.",
+      "cities100": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "flag": "/images/flags/reino-unido.png",
+          "image": "/images/flags/londres.jpg"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "flag": "/images/flags/france.png",
+          "image": "/images/flags/paris.jpg"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "flag": "/images/flags/italia.png",
+          "image": "/images/flags/roma.jpg"
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "flag": "/images/flags/tcheca.png",
+          "image": "/images/flags/praga.jpg"
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "flag": "/images/flags/holanda.png",
+          "image": "/images/flags/amsterda.jpg"
+        }
+      ]
+    },
+    { 
+      "id": 2,
+      "title": "Egito",
+      "bio": "Cairo é a capital do Egito e da província homônima. É a maior cidade do mundo árabe e da África. Os egípcios a denominam muitas vezes, simplesmente, com o nome do país no idioma local. Cairo está localizada nas margens e ilhas do rio Nilo, ao sul do delta. Ao sudoeste, se encontra Giza e a antiga necrópole de Mênfis, com a meseta de Giza e suas monumentais pirâmides, como a Grande Pirâmide de Quéops.",
+      "countries": 30,
+      "languages": 20,
+      "cities": 10,
+      "image": "/images/cairo-egito-slide.jpg",
+      "citiesList": "Abnoub, Acmim, Alarixe, Banha, (Egito), Beni, Suef, Berenice(Egito), Bilbeis, Bir, al-Abed, Cairo, Com, Ombo, Damanhur,El-Adwah, Faium, Gizé, Latópolis, Luxor, Maghagha, Minia, Mit, Abu, al-Kum, Nagrig, Nague, Hamadi, Nova, Capital, Administrativa, Oxirrinco, Papremis, Porto, Fuade, Qalyub, Roseta, (cidade), Sallum, Soague, Tanta, Thonis-Heracleion, Tmuis, Tor, (Egito), Uádi, Natrum, Xarm, el-Xeikh, Xibim, Elcom, Xubra, el-Kheima, Zagazigue, Zawyet, el-Aryan.",
+      "cities100": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "flag": "/images/flags/reino-unido.png",
+          "image": "/images/flags/londres.jpg"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "flag": "/images/flags/france.png",
+          "image": "/images/flags/paris.jpg"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "flag": "/images/flags/italia.png",
+          "image": "/images/flags/roma.jpg"
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "flag": "/images/flags/tcheca.png",
+          "image": "/images/flags/praga.jpg"
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "flag": "/images/flags/holanda.png",
+          "image": "/images/flags/amsterda.jpg"
+        }
+      ]
+    },
+    { 
+      "id": 3,
+      "title": "Grécia",
+      "bio": "O país está estrategicamente localizado no cruzamento entre a Europa, a Ásia, o Oriente Médio e a África. A Grécia moderna tem suas raízes na civilização da Grécia Antiga, considerada o berço de toda a civilização ocidental. Como tal, é o local de origem da democracia, da filosofia ocidental, dos Jogos Olímpicos, da literatura ocidental, da ciência política, de grandes princípios científicos e matemáticos, das artes cênicas ocidentais.",
+      "countries": 20,
+      "languages": 10,
+      "cities": 15,
+      "image": "/images/athenas-grecia-slide.jpg",
+      "citiesList": "Abas, (cidade), Abdera, (Trácia), Achirau, Acilisene, Acroino, Adália, Adana, Adramício, Adrianópolis, Afrodísias, Agírio, Agrílio, Alexandria, da, Trôade, Amatunte, Ambrácia, Amicleia, Amisos, Amnisos, Ampúrias, Anaia, Anazarbo, Ancira, Andríaca, Anfímala, Anfípolis, Antália, Antigoneia, (Epiro), Antinoópolis, Antioquia, da, Pisídia, Antioquia, na, Cilícia, Antioquia, noTauro, Antipatreia, Apolónia, (costa, norte, de, Creta), Apolónia, (costa, sul, de, Creta), Apolônia, (Frígia), Apolônia, (Ilíria), Apolônia, (Migdônia), Apolônia, (Mísia), Apolónia, da, Palestina, Apolônia, no, Ponto, Áptera, (cidade), Archelais, Argos, (Grécia), Ariarateia, Arsínoe, (Cilícia), Arsínoe, (Creta), Arzen, Aspendo, Assos, Atira, Augila, Azoriás, Azoto, (cidade), Cato, Zacro, Caulônia, Cauno, Cencreia, Centúripa, Cércira, Chersonesos, (Creta), Cidônia, Ciliza, Cineta, Cípsela, (Arcádia), Cípsela (Trácia), Cirro, (Macedônia, Antiga), Císsamos, Císsamos (Áptera), Cízico, Claudiópolis, Clazômenas, Clisma, Cnido, Cnossos, Cocinto, Cólofon, Colossas, Comana, da, Capadócia, Comana, Pôntica, Cona, (cidade), Coracésio, Corinto, Cotieu, Crisôndio, Crotona, Cumas, Cúrio, (Chipre), Hagia, Triada, Haliarto, Halicarnasso, Helenópolis, Heliópolis, (Egito), Heracleia, (Lucânia), Heracleia, da, Traquínia, Heracleia,Pôntica, Hierapitna, Hierápolis, Pamukkale, Histieia.",
+      "cities100": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "flag": "/images/flags/reino-unido.png",
+          "image": "/images/flags/londres.jpg"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "flag": "/images/flags/france.png",
+          "image": "/images/flags/paris.jpg"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "flag": "/images/flags/italia.png",
+          "image": "/images/flags/roma.jpg"
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "flag": "/images/flags/tcheca.png",
+          "image": "/images/flags/praga.jpg"
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "flag": "/images/flags/holanda.png",
+          "image": "/images/flags/amsterda.jpg"
+        }
+      ]
+    }
+  ]
+}
